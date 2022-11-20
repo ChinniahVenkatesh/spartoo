@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>spartoo</name>
+=======
 	<name>Spartoo</name>
+>>>>>>> ac0c355139081de7b0bbd9077bc87f19e86df1d7
 	<comment></comment>
 	<projects>
 	</projects>
